@@ -25,7 +25,7 @@ import (
 
 const (
 	spotifySetupURL    = "https://download.scdn.co/SpotifyFullSetupX64.exe"
-	spotifyVersionsURL = "https://spotify.uptodown.com/windows/versions"
+	spotifyVersionsURL = "https://spotify.uptodown.com/windows/descargar/1185537389"
 	spotifyDownloadURL = "https://dw.uptodown.net/dwn/"
 	releaseChromeURL   = "https://github.com/Nuzair46/BlockTheSpot/releases/latest/download/chrome_elf.dll"
 	releaseBlockURL    = "https://github.com/Nuzair46/BlockTheSpot/releases/latest/download/blockthespot.dll"
